@@ -1,1 +1,1 @@
-<img src='https://files.catbox.moe/p7nbcr.png' width='200px'>
+!(https://files.catbox.moe/z1am59.png)
