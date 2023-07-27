@@ -1,15 +1,1 @@
-```js
-const AboutMe = () => {
-    Who_Am_I: {
-      about: 'I make a lot of web projects that others can use, im trying to keep all my repositories full of projects that are accessable",
-      goal: 'To make programming a habit and commit multiple times a week consistently for my career',
-    },
-    Top_5_Anime: {
-			1: 'Welcome to the NHK',
-			2: '3-Gatsu No Lion',
-			3: 'Clannad Afterstory',
-			4: 'Serial Experiments Lain',
-			5: 'Mushoku Tensei',
-	}
-}
-```
+![](![image](https://github.com/Tekigima/tekigima/assets/136871371/4bdb9f46-3867-48f5-9e55-af7dfab89519))
